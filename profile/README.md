@@ -1,4 +1,4 @@
-<!--![FullStack Factoids Logo](https://github.com/FullStackFactoids/.github/blob/main/profile/FullStack%20Factoids%20-Youtube%20Banner.png)-->
+![FullStack Factoids Logo](https://github.com/FullStackFactoids/.github/blob/main/profile/fullstackfactoid-github-narrow.png)
 
 **FullStack Factoids GitHub Repository**
 
